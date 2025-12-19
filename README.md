@@ -1,7 +1,7 @@
 AI-Chatbot
 ========
 
-JarvisAI is a virtual assistant application that integrates speech recognition, text-to-speech, real-time search, automation, and a graphical user interface (GUI). It is designed to interact with users, perform tasks, and provide intelligent responses based on user queries.
+This is a virtual assistant application that integrates speech recognition, text-to-speech, real-time search, automation, and a graphical user interface (GUI). It is designed to interact with users, perform tasks, and provide intelligent responses based on user queries.
 
 ---
 
@@ -19,7 +19,7 @@ Features
 
 Project Structure
 -----------------
-JarvisAI/
+AI-Chatbot/
 ├── Backend/
 │   ├── Automation.py          # Handles automation tasks
 │   ├── Chatbot.py             # Conversational AI chatbot
@@ -52,8 +52,8 @@ JarvisAI/
 Installation
 ------------
 1. Clone the repository:
-   git clone https://github.com/your-username/JarvisAI.git
-   cd JarvisAI
+   git clone https://github.com/parth171106/AI-Bot.git
+   cd AI-Chatbot
 
 2. Create and activate a virtual environment:
    python -m venv venv
@@ -66,7 +66,7 @@ Installation
    - Create a `.env` file in the root directory.
    - Add the following:
      API_KEY=your_api_key
-     ASSISTANT_NAME=Jarvis
+     ASSISTANT_NAME=YourPreferredName
      USER_NAME=YourName
 
 ---
