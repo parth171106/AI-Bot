@@ -1,4 +1,4 @@
-JarvisAI
+AI-Chatbot
 ========
 
 JarvisAI is a virtual assistant application that integrates speech recognition, text-to-speech, real-time search, automation, and a graphical user interface (GUI). It is designed to interact with users, perform tasks, and provide intelligent responses based on user queries.
