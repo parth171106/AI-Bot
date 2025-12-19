@@ -1,0 +1,98 @@
+[
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, how can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Can you play the song?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not capable of playing songs, but I can provide you with lyrics or information about a specific song if you'd like."
+    },
+    {
+        "role": "user",
+        "content": "What's the temperature today?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have real-time access to your location's current temperature. However, I can suggest checking a weather website or app for the most up-to-date information."
+    },
+    {
+        "role": "user",
+        "content": "Can you open youtube?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI assistant and do not have the capability to open external websites or applications, including YouTube."
+    },
+    {
+        "role": "user",
+        "content": "test query"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'test query' are empty, as the provided data shows: [start] [end]. There is no information available for this query."
+    },
+    {
+        "role": "user",
+        "content": "Hi hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, how can I help you?"
+    },
+    {
+        "role": "user",
+        "content": "Yes, i can search on google."
+    },
+    {
+        "role": "assistant",
+        "content": "You can search for anything on Google, what would you like to search for?"
+    },
+    {
+        "role": "user",
+        "content": "Okay open youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not capable of opening external websites or applications, including YouTube."
+    },
+    {
+        "role": "user",
+        "content": "What is today's headline?"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'What is today's headline?' are empty, as the provided data shows: [start] [end]. Unfortunately, I do not have any information on today's headline. However, I can tell you that today is Friday, December 19, 2025."
+    },
+    {
+        "role": "user",
+        "content": "Open youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not capable of opening external websites or applications, including YouTube."
+    },
+    {
+        "role": "user",
+        "content": "Open youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI assistant and cannot open external websites or applications, including YouTube."
+    },
+    {
+        "role": "user",
+        "content": "What is today's top news?"
+    },
+    {
+        "role": "assistant",
+        "content": "The search results for 'What is today's top news?' are empty, as the provided data shows: [start] No search results found. [end]. Unfortunately, I do not have any information on today's top news. However, I can tell you that today is Friday, December 19, 2025."
+    }
+]
